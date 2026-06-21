@@ -1,2 +1,14 @@
 # stats-panda-hub
-HTML page archive and documentation
+
+页面内容归档仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
